@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html></html>
+<head></head>
+<title></title>
+<body></<body>
+<h1></h1>
+<p></p>
+<div></div>
+<input type ="" placeholder ="">
+<button></button>
+<a href=""></a>
+<style></style>
+{ color: red;}
+{ font-size: ;
+background-color: ;
+padding: ;
+margin-bottom: ;
+border-radius: ;}
